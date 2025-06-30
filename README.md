@@ -37,3 +37,10 @@
 - The focus was solely on animation and native integration.
 
 - Best practices were already covered in the BookFinder app project.
+
+## App Screenshots
+
+
+![Splash Screen](screenshots/ds_splash.jpg)
+![Device Info Screen](screenshots/device_info.jpg)
+![Sensor Info Screen](screenshots/sensor_info.jpg) 
